@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Anil, and I am currently living and working in Bengaluru, India as a Software developer.
+
+I'm passionate about building user-friendly products while considering user experience and accessibility.
+
+Currently learning how to build a web3 decentralized app and also perfecting my Sleep cycle 😄.
+
+How to reach me?  email: anilpandiya05@gmail.com, site: https://anilpandiya.github.io
+
+[![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilpandiya&hide=contribs&show_icons=&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Anilpandiya/anilpandiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
