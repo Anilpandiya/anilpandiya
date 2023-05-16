@@ -6,7 +6,7 @@ I'm passionate about building user-friendly products while considering user expe
 
 Currently learning how to build a web3 decentralized app and also perfecting my Sleep cycle 😄.
 
-How to reach me?  email: anilpandiya05@gmail.com, site: https://anilpandiya.github.io
+How to reach me?  email: anilpandiya05@gmail.com, site: https://anilpandiya.github.io ,phone: +91-9672598162
 
 [![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilpandiya&hide=contribs&show_icons=&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
