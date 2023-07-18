@@ -8,7 +8,7 @@ Currently learning how to build a web3 decentralized app and also perfecting my 
 
 How to reach me?  email: anilpandiya05@gmail.com, site: https://anilpandiya.github.io ,phone: +91-9672598162
 
-[![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilpandiya&hide=contribs&show_icons=&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilpandiya&hide=contribs&rank_icon=github&show_icons=&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Anilpandiya/anilpandiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
